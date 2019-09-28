@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-        expect().to_not eq(0)
+        expect(my_hash).to_not eq(0)
 end
 
 def pioneer
