@@ -4,7 +4,6 @@ end
 
 def my_hash
   {"name=">'Grace Hopper'}
-  #=>
 end
 
 def pioneer
