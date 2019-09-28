@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
-  expect(pioneer) = {:name =>"Grace Hopper"}
+  
   #=>
 end
 
