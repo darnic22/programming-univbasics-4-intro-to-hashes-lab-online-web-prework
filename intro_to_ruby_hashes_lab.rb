@@ -3,7 +3,6 @@ def new_hash
 end
 
 def my_hash
-   expect(my_hash).to be_a(Hash)
         expect(my_hash.keys.count).to_not eq(0)
 end
 
