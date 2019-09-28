@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
-  {pioneer=value}
+  {:pioneer,value}
 end
 
 def id_generator
