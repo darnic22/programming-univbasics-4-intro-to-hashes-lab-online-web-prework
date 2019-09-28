@@ -8,7 +8,6 @@ end
 
 def pioneer
   {pioneer=value}
-  #=>
 end
 
 def id_generator
